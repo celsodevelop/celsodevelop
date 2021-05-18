@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **celso.oliva.aparecido@gmail.com**
 
-- ⚡ Fun fact: I've change aspiration during math/tech graduation to more biological science approach until get myself studying IT articles.
+- ⚡ Fun fact: I've change aspiration during math/tech graduation to more biological science approach until get myself studying IT articles by myself and here I am learning as much as possible to contribute and share far I can.
 Living software development nowadays aiming for proficiency, best practices, and optimize solutions everyday.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
